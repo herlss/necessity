@@ -188,4 +188,9 @@ body{
 
 #muteIcon {
     height: 30px; width: 30px;
+    cursor: pointer;
+}
+
+#muteIcon:hover {
+    opacity: .8;
 }
